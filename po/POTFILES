@@ -1,0 +1,7 @@
+data/net.pavela.gpudownloader.desktop.in
+data/net.pavela.gpudownloader.appdata.xml.in
+data/net.pavela.gpudownloader.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
